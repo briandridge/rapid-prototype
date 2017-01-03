@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/briandridge/rapid-prototype",
+  "authors": [
+    "briandridge <briandridge@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-resource": "^1.6.1",
+    "angular-route": "^1.6.1"
+  }
+}
